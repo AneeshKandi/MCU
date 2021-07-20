@@ -1,0 +1,16 @@
+div.card{
+    margin-top: 20px;
+    width: 30rem;
+    left: 32%;
+}
+h3.card-title{
+    margin-top: 20px;
+    padding-top: 20;
+    font-family: 'Times New Roman', Times, serif;
+}
+img.card-img-top{
+    align-self: center;
+    max-width: 90%;
+    max-height: 90%;
+    display: block;
+}

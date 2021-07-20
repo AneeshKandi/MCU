@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-item1,
+#drop,
+.nav-item3{
+    background-color:hsl(0, 2%, 16%); 
+    border-radius: 6px;
+}
+.nav-item1{
+    position: relative;
+    left:30%;
+}
+#drop{
+    position: relative;
+    left: 60%;
+}
+.nav-item3{
+    position: relative;
+    left: 90%;
+}
+.d-flex{
+    position: relative;
+    left: 55%;
+}
